@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wektors
 - 👀 I’m interested in video games, bushcraft, coding.
-- 🌱 I’m currently learning Web Development, studying Mechanical Engineering
+- 🌱 I’m Web Developer and Mechanical Engineer.
 - 💞️ I’m looking to collaborate on Front End!
 - 📫 How to reach me - wiktorm16@gmail.com
 
