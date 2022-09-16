@@ -1,4 +1,4 @@
-# H1 👋 Hi, I’m @Wektors
+# 👋 Hi, I’m @Wektors
 - 👀 I’m interested in video games, bushcraft, coding.
 
 - 🌱 I’m Web Developer and Mechanical Engineer.
