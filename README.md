@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on Front End preferably!
 
 - 🖥️ My stack: 
-  - HTML, CSS & JS
+  - HTML, CSS (+Sass) & JS
   - React
   - Python
 
