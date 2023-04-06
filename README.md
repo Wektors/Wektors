@@ -1,13 +1,16 @@
 # 👋 Hi, I’m @Wektors
 
-- 👀 I’m interested in 🎮 video games, 🌳 bushcraft, 🎸 guitar playing, ⌨️ coding.
+- 👀 I’m interested in 🎮 video games, 🌳 bushcraft, 🎸 guitar playing.
 
-- 🌱 I’m a future Web Developer.
+- 🌱 I’m an aspiring Web Developer.
 
 - 💞️ I’m looking to collaborate on Front End preferably!
 
 - 🖥️ My stack: 
-  - HTML, CSS (+Sass) & JS
+  - HTML
+  - CSS
+  - SASS
+  - JS
   - React
   - Python
 
