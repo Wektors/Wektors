@@ -8,8 +8,7 @@
 
 - 🖥️ My stack: 
   - HTML
-  - CSS
-  - SASS
+  - CSS & SASS
   - JS
   - React
   - Python
