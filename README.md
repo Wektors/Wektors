@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Wektors
 
-- 👀 I’m interested in 🎮 video games, 🌳 bushcraft, 🎸 guitar playing.
+- 👀 I’m interested in 🎮 video games, 🌳 bushcraft, 🎸 playing guitar.
 
 - 🌱 I’m an aspiring Web Developer.
 
