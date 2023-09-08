@@ -10,8 +10,10 @@
   - HTML
   - CSS & SASS
   - JS
+  - Vue
   - React
   - Python
+  - C
 
 - 📫 How to reach me - wiktorm16@gmail.com
 
